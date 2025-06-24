@@ -1,0 +1,6 @@
+       Step	         File to Run	          Command
+1️⃣ Start Blockchain	  Ganache	        Open Ganache & Click Quick Start
+2️⃣ Run Flask App	               app.py	                        python app.py
+3️⃣ Compile Smart Contract	   compile_contract.py	      python compile_contract.py
+4️⃣ Deploy Smart Contract	   deploy_contract.py	      python deploy_contract.py
+5️⃣ Access Web App	         Browser	                  http://127.0.0.1:5000
